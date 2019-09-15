@@ -2,7 +2,7 @@ def hello_t(array)
   
   i = log10
   while i < array.length 
-    
+    i += 1
   end 
   
   
